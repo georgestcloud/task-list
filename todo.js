@@ -1,4 +1,4 @@
-// create a variable that access the DOM tree
+// todo.js
 const newTaskInput = document.querySelector("#new-task");
 const allTodo = document.querySelector(".plans-all");
 const filledForm = document.querySelector("#add-tasks");
